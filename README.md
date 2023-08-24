@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## 💻 Frontend Tech Stack:
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233062652-93382e8c-6bf7-44e8-8682-b7e1d182787d.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233065004-9d3d6bf3-4136-4353-8397-b6f49fd70df8.svg" alt="nextjs" width="40" height="40" /></a>
 <a href="https://trpc.io/" target="__blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653969-f141f125-240d-4278-a0cf-28a76e0f5183.svg" alt="trpc" width="40" height="40" /></a>
