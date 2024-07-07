@@ -84,8 +84,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaouimednour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph" /> <br>
 -->
 <img src="https://streak-stats.demolab.com?user=hamzaouimednour&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=6&order=3" height="180" alt="streak graph"  />
+<img src="https://visitcount.itsvg.in/api?id=hamzaouimednour&icon=0&color=6" alt="views graph" height="25"/>
 <!-- older tech stack versions: -->
-<!-- [![](https://visitcount.itsvg.in/api?id=TeoSean00&icon=0&color=6)](https://visitcount.itsvg.in)<br/>
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=hamzaouimednour&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzaouimednour&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaouimednour&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
