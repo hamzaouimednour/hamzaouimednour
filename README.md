@@ -22,18 +22,19 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaoui-mednour) <br>
 
 ## 💻 Backend Tech Stack:
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="70"/> </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40"/> </a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elastic" width="80"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="30"/> </a>
+<a href="https://www.elastic.co/logstash" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" width="30"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653479-b6577942-5930-40da-a407-de9ecba1aa5f.svg" alt="FastAPI" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.prisma.io/" target="__blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238614330-21715d57-3c15-4347-90e7-4565102cf89c.svg" height="50" width="50" alt="prisma logo"  /> </a>
-<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" width="45" alt="sqlalchemy logo"  /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233063868-d000a84c-9a0b-46cc-8318-24eafd79f82b.svg" height="40" width="40" alt="pandas library"  /></a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233066088-a5762cb3-03a0-46e9-af86-619133f2d846.svg" height="40" width="40" alt="streamlit"  /></a>
-<a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238615199-18b89cf7-bf11-4c36-baa0-2fced9deee0b.svg" alt="planetscale" width="45" height="45"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="GO" width="40" height="40"/> </a>
+<a href="https://www.prisma.io/" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="40" width="80" alt="prisma"/> </a>
+<a href="https://planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="planetscale" width="45" height="45"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246653676-8a624d0a-e4e9-4690-a0aa-a0675fd5523c.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
@@ -42,8 +43,12 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="45"/> </a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 <a href="https://konghq.com/products/kong-gateway" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233065699-f369c97b-a568-484b-80cc-24d5476faf79.svg" alt="kong api gateway" width="50" height="50"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><br>
-
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="npm" height="40" width="40"/></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="npm" height="40" width="40"/></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="npm" height="40" width="40"/></a>
+<a href="https://www.cloudfoundry.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudfoundry/cloudfoundry-ar21.svg" alt="npm" height="50"/></a>
+<br>
 ## 💻 Frontend Tech Stack:
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233062652-93382e8c-6bf7-44e8-8682-b7e1d182787d.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -58,11 +63,11 @@ Here are some ideas to get you started:
 <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233063250-1f0e3475-f5a2-42e9-95f7-33d75b15a0f3.svg" alt="ant design" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" width="40" alt="npm logo" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" width="40"/></a>
 <br>
 
 ## 💻 Other Relevant Tech Skills:
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  /> </a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="40" width="40"/> </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/79046481/233069185-436a470e-024a-42b8-abe1-907f18b2bf2a.svg" height="40" width="40" alt="vercel logo"  /> </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" /></a>
 <a href="https://swagger.io/tools/swagger-ui/" target="__blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/246654099-175eac2e-4a4d-492f-b187-37fd91ea144b.svg" alt="swagger ui" width="45" height="40"/> </a>
@@ -70,17 +75,15 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /></a>
 <a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79046481/238621556-8b7b081d-3b9b-4c65-a817-957821b987d5.svg" alt="excalidraw" width="45" height="45"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  /> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/79046481/233069651-43a841f1-c7e0-4215-a929-5f20ef902b1b.svg" width="40" height="40"/> </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  /> </a><br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaouimednour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="210" alt="languages graph" /> <br>
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaouimednour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="210" alt="languages graph" /> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaouimednour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph" /> <br>
-<img src="https://streak-stats.demolab.com?user=hamzaouimednour&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=6&order=3" height="180" alt="streak graph"  />
 -->
+<img src="https://streak-stats.demolab.com?user=hamzaouimednour&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=6&order=3" height="180" alt="streak graph"  />
 <!-- older tech stack versions: -->
 <!-- [![](https://visitcount.itsvg.in/api?id=TeoSean00&icon=0&color=6)](https://visitcount.itsvg.in)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=hamzaouimednour&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
